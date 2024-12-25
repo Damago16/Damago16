@@ -3,7 +3,7 @@
 Soy un desarrollador web apasionado por la tecnología y con experiencia en **Desarrollo de Aplicaciones Web**. Me encanta trabajar en equipo y aprender nuevas tecnologías. Durante mi formación, he trabajado en proyectos desafiantes y siempre estoy buscando nuevas oportunidades para crecer como profesional.
 
 ## Proyecto destacado: Gymtracker
-Soy colaborador en **[Gymtracker](link del repositorio)**, una aplicación web desarrollada en conjunto con dos compañeros como parte de nuestro Proyecto de Fin de Ciclo Formativo. **Gymtracker** permite a los usuarios gestionar sus rutinas de gimnasio, seguir su progreso y llevar un registro detallado de sus entrenamientos. 
+Soy colaborador en **[Gymtracker](https://github.com/deiivvv/GymTracker)**, una aplicación web desarrollada en conjunto con dos compañeros como parte de nuestro Proyecto de Fin de Ciclo Formativo. **Gymtracker** permite a los usuarios gestionar sus rutinas de gimnasio, seguir su progreso y llevar un registro detallado de sus entrenamientos. 
 
 ### Algunas características del proyecto:
 - Arquitectura **MVC** con **Spring Boot** en el backend
